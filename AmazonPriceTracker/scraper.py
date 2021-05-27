@@ -43,7 +43,7 @@ def check_price(URL):
 
     # print(price)
 
-    if price <= 350:
+    if price <= 380:
         send_mail()
         global priceTrue
         priceTrue = False
