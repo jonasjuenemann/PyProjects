@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10ef885b-6abe-4ab4-a706-6c1c42e72bb9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Async/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Async/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Typing/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Typing/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Bachelorarbeit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -187,6 +186,7 @@
       <workItem from="1622130667549" duration="50000" />
       <workItem from="1623368764629" duration="1859000" />
       <workItem from="1623414202349" duration="20000" />
+      <workItem from="1627260404433" duration="70000" />
     </task>
     <servers />
   </component>

@@ -24,7 +24,7 @@ print(y)
 
 z: list = []
 
-c: List[int] = [] # In 3.9 dürfte man hier die Standard list verwenden
+c: List[int] = []  # In 3.9 dürfte man hier die Standard list verwenden
 
 c = ["hey", "hey"]
 
